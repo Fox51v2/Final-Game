@@ -1,0 +1,1 @@
+var FavNsiCook;(function(n){var t="/",i="_IFAV",r="FRVST",u="_IVIDFAV",f="VIDFRVST";n.ucnsi=function(){sj_cook.set(i,r,"false",!0,t)};n.gcnsi=function(){return sj_cook.get(i,r)};n.ucvnsi=function(){sj_cook.set(u,f,"false",!0,t)};n.gcvnsi=function(){return sj_cook.get(u,f)}})(FavNsiCook||(FavNsiCook={}))
